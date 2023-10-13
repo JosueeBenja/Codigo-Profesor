@@ -1,0 +1,39 @@
+D:\Praogramación C#\Codigo de los ultimos 3 codigos\bin\Debug\net6.0-windows\Codigo de los ultimos 3 codigos.exe
+D:\Praogramación C#\Codigo de los ultimos 3 codigos\bin\Debug\net6.0-windows\Codigo de los ultimos 3 codigos.deps.json
+D:\Praogramación C#\Codigo de los ultimos 3 codigos\bin\Debug\net6.0-windows\Codigo de los ultimos 3 codigos.runtimeconfig.json
+D:\Praogramación C#\Codigo de los ultimos 3 codigos\bin\Debug\net6.0-windows\Codigo de los ultimos 3 codigos.dll
+D:\Praogramación C#\Codigo de los ultimos 3 codigos\bin\Debug\net6.0-windows\Codigo de los ultimos 3 codigos.pdb
+D:\Praogramación C#\Codigo de los ultimos 3 codigos\obj\Debug\net6.0-windows\Codigo de los ultimos 3 codigos.csproj.AssemblyReference.cache
+D:\Praogramación C#\Codigo de los ultimos 3 codigos\obj\Debug\net6.0-windows\Codigo_de_los_ultimos_3_codigos.Form1.resources
+D:\Praogramación C#\Codigo de los ultimos 3 codigos\obj\Debug\net6.0-windows\Codigo de los ultimos 3 codigos.csproj.GenerateResource.cache
+D:\Praogramación C#\Codigo de los ultimos 3 codigos\obj\Debug\net6.0-windows\Codigo de los ultimos 3 codigos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Praogramación C#\Codigo de los ultimos 3 codigos\obj\Debug\net6.0-windows\Codigo de los ultimos 3 codigos.AssemblyInfoInputs.cache
+D:\Praogramación C#\Codigo de los ultimos 3 codigos\obj\Debug\net6.0-windows\Codigo de los ultimos 3 codigos.AssemblyInfo.cs
+D:\Praogramación C#\Codigo de los ultimos 3 codigos\obj\Debug\net6.0-windows\Codigo de los ultimos 3 codigos.csproj.CoreCompileInputs.cache
+D:\Praogramación C#\Codigo de los ultimos 3 codigos\obj\Debug\net6.0-windows\Codigo de los ultimos 3 codigos.dll
+D:\Praogramación C#\Codigo de los ultimos 3 codigos\obj\Debug\net6.0-windows\refint\Codigo de los ultimos 3 codigos.dll
+D:\Praogramación C#\Codigo de los ultimos 3 codigos\obj\Debug\net6.0-windows\Codigo de los ultimos 3 codigos.pdb
+D:\Praogramación C#\Codigo de los ultimos 3 codigos\obj\Debug\net6.0-windows\Codigo de los ultimos 3 codigos.genruntimeconfig.cache
+D:\Praogramación C#\Codigo de los ultimos 3 codigos\obj\Debug\net6.0-windows\ref\Codigo de los ultimos 3 codigos.dll
+C:\Users\Gonzalez\Desktop\Parcial 2 tarea\Codigo de los ultimos 3 codigos\bin\Debug\net6.0-windows\Codigo de los ultimos 3 codigos.exe
+C:\Users\Gonzalez\Desktop\Parcial 2 tarea\Codigo de los ultimos 3 codigos\bin\Debug\net6.0-windows\Codigo de los ultimos 3 codigos.deps.json
+C:\Users\Gonzalez\Desktop\Parcial 2 tarea\Codigo de los ultimos 3 codigos\bin\Debug\net6.0-windows\Codigo de los ultimos 3 codigos.runtimeconfig.json
+C:\Users\Gonzalez\Desktop\Parcial 2 tarea\Codigo de los ultimos 3 codigos\bin\Debug\net6.0-windows\Codigo de los ultimos 3 codigos.dll
+C:\Users\Gonzalez\Desktop\Parcial 2 tarea\Codigo de los ultimos 3 codigos\bin\Debug\net6.0-windows\Codigo de los ultimos 3 codigos.pdb
+C:\Users\Gonzalez\Desktop\Parcial 2 tarea\Codigo de los ultimos 3 codigos\obj\Debug\net6.0-windows\Codigo de los ultimos 3 codigos.csproj.AssemblyReference.cache
+C:\Users\Gonzalez\Desktop\Parcial 2 tarea\Codigo de los ultimos 3 codigos\obj\Debug\net6.0-windows\Codigo_de_los_ultimos_3_codigos.Form1.resources
+C:\Users\Gonzalez\Desktop\Parcial 2 tarea\Codigo de los ultimos 3 codigos\obj\Debug\net6.0-windows\Codigo_de_los_ultimos_3_codigos.GestionDeProfesores.resources
+C:\Users\Gonzalez\Desktop\Parcial 2 tarea\Codigo de los ultimos 3 codigos\obj\Debug\net6.0-windows\Codigo_de_los_ultimos_3_codigos.RegistrarDatosDeProfesores.resources
+C:\Users\Gonzalez\Desktop\Parcial 2 tarea\Codigo de los ultimos 3 codigos\obj\Debug\net6.0-windows\Codigo_de_los_ultimos_3_codigos.RegistrarNuevoProfesor.resources
+C:\Users\Gonzalez\Desktop\Parcial 2 tarea\Codigo de los ultimos 3 codigos\obj\Debug\net6.0-windows\Codigo de los ultimos 3 codigos.csproj.GenerateResource.cache
+C:\Users\Gonzalez\Desktop\Parcial 2 tarea\Codigo de los ultimos 3 codigos\obj\Debug\net6.0-windows\Codigo de los ultimos 3 codigos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gonzalez\Desktop\Parcial 2 tarea\Codigo de los ultimos 3 codigos\obj\Debug\net6.0-windows\Codigo de los ultimos 3 codigos.AssemblyInfoInputs.cache
+C:\Users\Gonzalez\Desktop\Parcial 2 tarea\Codigo de los ultimos 3 codigos\obj\Debug\net6.0-windows\Codigo de los ultimos 3 codigos.AssemblyInfo.cs
+C:\Users\Gonzalez\Desktop\Parcial 2 tarea\Codigo de los ultimos 3 codigos\obj\Debug\net6.0-windows\Codigo de los ultimos 3 codigos.csproj.CoreCompileInputs.cache
+C:\Users\Gonzalez\Desktop\Parcial 2 tarea\Codigo de los ultimos 3 codigos\obj\Debug\net6.0-windows\Codigo de los ultimos 3 codigos.dll
+C:\Users\Gonzalez\Desktop\Parcial 2 tarea\Codigo de los ultimos 3 codigos\obj\Debug\net6.0-windows\refint\Codigo de los ultimos 3 codigos.dll
+C:\Users\Gonzalez\Desktop\Parcial 2 tarea\Codigo de los ultimos 3 codigos\obj\Debug\net6.0-windows\Codigo de los ultimos 3 codigos.pdb
+C:\Users\Gonzalez\Desktop\Parcial 2 tarea\Codigo de los ultimos 3 codigos\obj\Debug\net6.0-windows\Codigo de los ultimos 3 codigos.genruntimeconfig.cache
+C:\Users\Gonzalez\Desktop\Parcial 2 tarea\Codigo de los ultimos 3 codigos\obj\Debug\net6.0-windows\ref\Codigo de los ultimos 3 codigos.dll
+C:\Users\Gonzalez\Desktop\Parcial 2 tarea\Codigo de los ultimos 3 codigos\obj\Debug\net6.0-windows\Codigo_de_los_ultimos_3_codigos.RegistroDeNuevoProfesores.resources
+C:\Users\Gonzalez\Desktop\Parcial 2 tarea\Codigo de los ultimos 3 codigos\obj\Debug\net6.0-windows\Codigo_de_los_ultimos_3_codigos.AgregarNuevoProfesor.resources

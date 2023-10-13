@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Codigo de los ultimos 3 codigos/1.0.0": {
+        "runtime": {
+          "Codigo de los ultimos 3 codigos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Codigo de los ultimos 3 codigos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
